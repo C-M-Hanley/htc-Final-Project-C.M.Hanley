@@ -185,7 +185,7 @@ public class Program
                                     string caseing = Console.ReadLine();
                                     if (caseing == "1")
                                     {
-                                        Console.WriteLine("Your speciman is a beetle. Kingdom: Animalia, Phylum: Arthropoda, Class: Insecta, Order: Coleoptera");
+                                        Console.WriteLine("Your speciman is a beetle. Kingdom: Animalia, Phylum: Arthropoda, Class: Insecta, Order: Endopterygota");
                                     }
                                     else if (caseing == "2")
                                     {
